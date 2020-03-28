@@ -1,10 +1,10 @@
 {
   "name": "auto_refresh_google_ext",
-  "description": "A Vue.js web extension",
+  "description": "A Vue.js web extension to refresh web pages in specified time interval",
   "version": null,
   "manifest_version": 2,
   "icons": {
-    "48": "icons/icon_48.png",
+    "48": "icons/icon_refresh_64.png",
     "128": "icons/icon_128.png"
   },
   "browser_action": {
